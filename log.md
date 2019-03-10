@@ -10,7 +10,7 @@
 
 ### Day 1: March 10th 2019 - Sunday
 
-**Today's Progress**: Did some more stuff in Azure with the AI Bots and found some more Python chatbots to play with
+**Today's Progress**: Did some more stuff in Azure with the AI Bots and found some more Python chatbots to play with. I also played codecombat for an hour, to practice my python skills
 
 **Thoughts**: Lots of stuff is out of date, libraries don't match. PIL has not been ported to Python 3 yet and I don't have a clear understanding of how to get similar functionality out of other standard libraries. The research part is not as fun as the coding part and it's frustrating to try and do and understand stuff when it doesn't work anymore. But little by little I am progressing.
 
