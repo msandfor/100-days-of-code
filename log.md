@@ -14,7 +14,7 @@
 
 **Thoughts**: Lots of stuff is out of date, libraries don't match. PIL has not been ported to Python 3 yet and I don't have a clear understanding of how to get similar functionality out of other standard libraries. The research part is not as fun as the coding part and it's frustrating to try and do and understand stuff when it doesn't work anymore. But little by little I am progressing.
 
-**Link(s) to work**: I started some files for each day so you can see the code I am playing with
+**Link(s) to work**: I started some files for each day so you can see the code I am playing with.
 
 ### Day 2: March 11th 2019 - Monday
 
