@@ -18,9 +18,9 @@
 
 ### Day 2: March 11th 2019 - Monday
 
-**Today's Progress**: 
+**Today's Progress**: Got my Twitter developer access. Solved some more problems in CodeCombat.
 
-**Thoughts** 
+**Thoughts** I need to do this at the start of the day, I'm too tired at night.
 
-**Link(s) to work**
+**Link(s) to work** See Day 002
 
