@@ -1,0 +1,31 @@
+# Don't insult this tribe of peaceful ogres.
+
+while True:
+    item = hero.findNearestItem()
+    if item:
+        # If item.type IS NOT EQUAL TO "gem"
+        if item.type != "gem":
+            # Then follow your pet wolf.
+            hero.moveXY(pet.pos.x, pet.pos.y)
+        # Else:
+        if item.type == "gem":
+            # Move to the gem's position.
+            pos = item.pos
+            x = pos.x
+            y = pos.y
+            hero.moveXY(x, y)
+
+# You nee# You need to collect several items.
+# But, the burl wants the gems!
+# Pick up all appearing items EXCEPT gems.
+
+while True:
+    item = hero.findNearestItem()
+    if item:
+        # If item.type isn't equal to "gem":
+        if item.type != "gem":
+        # Move to the item's position.
+            pos = item.pos
+            x = pos.x
+            y = pos.y
+            hero.moveXY(x, y)
