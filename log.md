@@ -33,3 +33,11 @@
 I did another hour this evening, and I feel better. Not everything works as expected, but I am able to do a bit of limited troubleshooting and really enjoyed how far I got tonight. Everything I learn leads to more questions though.
 
 **Link(s) to work** https://github.com/msandfor/github-bot-tutorial I'm up to here: https://github-bot-tutorial.readthedocs.io/en/latest/gidgethub-cmd-line.html
+
+### Day 4: March 13th 2019 - Wednesday
+
+**Today's Progress**: It wasn't quite working last night, so I redid some aspects of the bot and went a bit further. The first part is complete now, it's deployed in Heroku and it responded to a comment in my repository!
+
+**Thoughts** I thought I'd have to redo everything, but it's more like 2 steps forward and 1 step back. Just when you think it won't work, it does.
+
+**Link(s) to work** https://github.com/msandfor/snickers/issues/1
