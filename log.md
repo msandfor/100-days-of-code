@@ -30,4 +30,6 @@
 
 **Thoughts** An hour is not enough to feel like I'm making progress. I don't want to stop when I get it, and I do want to stop when I'm frustrated, but my brain calls me a quitter if I stop then.
 
+I did another hour this evening, and I feel better. Not everything works as expected, but I am able to do a bit of limited troubleshooting and really enjoyed how far I got tonight. Everything I learn leads to more questions though.
+
 **Link(s) to work** https://github.com/msandfor/github-bot-tutorial I'm up to here: https://github-bot-tutorial.readthedocs.io/en/latest/gidgethub-cmd-line.html
