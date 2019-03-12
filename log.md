@@ -24,3 +24,10 @@
 
 **Link(s) to work** See Day 002
 
+### Day 3: March 12th 2019 - Tuesday
+
+**Today's Progress**: Under the recommendation of @nnja I started the python build a github bot tutorial by @Mariatta
+
+**Thoughts** An hour is not enough to feel like I'm making progress. I don't want to stop when I get it, and I do want to stop when I'm frustrated, but my brain calls me a quitter if I stop then.
+
+**Link(s) to work** https://github.com/msandfor/github-bot-tutorial I'm up to here: https://github-bot-tutorial.readthedocs.io/en/latest/gidgethub-cmd-line.html
