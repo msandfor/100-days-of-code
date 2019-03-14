@@ -41,3 +41,13 @@ I did another hour this evening, and I feel better. Not everything works as expe
 **Thoughts** I thought I'd have to redo everything, but it's more like 2 steps forward and 1 step back. Just when you think it won't work, it does.
 
 **Link(s) to work** https://github.com/msandfor/snickers/issues/1
+
+### Day 5: March 14th 2019 - Thursday
+
+**Today's Progress**: Did a Kubernetes workshop.
+
+**Thoughts** Discovered sometimes it's not me, it's you. i.e. I didn't have all those lines of red code because of mistakes I was making. All my Microsoft buddies got the same error when using our work subscription. So something was locked down for us. But I also saw stuff that everyone knows how to do, I wouldn't have known how to do 2 weeks ago, and now I did it as quickly as they did.
+
+**Link(s) to work** https://github.com/msandfor/kubernetes-on-azure-workshop/blob/master/slides/kubernetes-101/Kubernetes-101.pdf
+https://docs.microsoft.com/en-us/Azure/containers/
+
