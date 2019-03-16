@@ -51,3 +51,18 @@ I did another hour this evening, and I feel better. Not everything works as expe
 **Link(s) to work** https://github.com/msandfor/kubernetes-on-azure-workshop/blob/master/slides/kubernetes-101/Kubernetes-101.pdf
 https://docs.microsoft.com/en-us/Azure/containers/
 
+### Day 6: March 15th 2019 - Friday
+
+**Today's Progress**: Continued with my Python Github bot, I'm now trying to get it to Say thanks when an issue has been merged¶
+
+**Thoughts** I know now why developers have so many screens, it really would be easier if I could see the documentation on one screen and the instructions, and then the code screen in another. There is not enough room on one screen for 3 windows.
+
+**Link(s) to work** https://github-bot-tutorial.readthedocs.io/en/latest/gidgethub-for-webhooks.html
+
+### Day 7: March 16th 2019 - Saturday
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work** 
