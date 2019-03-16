@@ -61,8 +61,8 @@ https://docs.microsoft.com/en-us/Azure/containers/
 
 ### Day 7: March 16th 2019 - Saturday
 
-**Today's Progress**: 
+**Today's Progress**: Finished the Python bot from @Marietta - I mean not all the optional extras, just the standard part
 
-**Thoughts** 
+**Thoughts** I'll probably move on and try other tutorials, and then come back to the extras as I become more confident.
 
-**Link(s) to work** 
+**Link(s) to work** https://github.com/msandfor/webservice
