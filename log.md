@@ -69,9 +69,10 @@ https://docs.microsoft.com/en-us/Azure/containers/
 
 ### Day 8: March 17th 2019 - Sunday
 
-**Today's Progress**: Woke up with a headache, so decided to play codecombat until the drugs kicked in. Then I looked at NLP chatbots from @ParulNith and was able to figure out why ROBO wasn't running and get it going. 
+**Today's Progress**: Woke up with a headache, so decided to play codecombat until the drugs kicked in. Then I looked at NLP chatbots from @ParulNith and was able to figure out why ROBO wasn't running and get it going. Started the Azure learning path: Create Intelligent Bots
 
 **Thoughts** Discovered that sometimes I can't see the errors in my code, no matter how long I stare at it, and then after I wiped the whole page and started from scratch - I did it perfectly the first time. Most of the time I think I can't do stuff from scratch, I always need to build on other peoples work, or see an example before I can do my own. And then this happens. 
 
 **Link(s) to work** https://codecombat.com/play/forest https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e
+https://docs.microsoft.com/en-us/learn/paths/create-bots-with-the-azure-bot-service/
 
