@@ -66,3 +66,11 @@ https://docs.microsoft.com/en-us/Azure/containers/
 **Thoughts** I'll probably move on and try other tutorials, and then come back to the extras as I become more confident.
 
 **Link(s) to work** https://github.com/msandfor/webservice
+
+### Day 8: March 17th 2019 - Sunday
+
+**Today's Progress**: Woke up with a headache, so decided to play codecombat until the drugs kicked in.
+
+**Thoughts** Discovered that sometimes I can't see the errors in my code, no matter how long I stare at it, and then after I wiped the whole page and started from scratch - I did it perfectly the first time. Most of the time I think I can't do stuff from scratch, I always need to build on other peoples work, or see an example before I can do my own. And then this happens. 
+
+**Link(s) to work** https://codecombat.com/play/forest
