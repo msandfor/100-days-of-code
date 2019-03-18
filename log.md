@@ -76,3 +76,17 @@ https://docs.microsoft.com/en-us/Azure/containers/
 **Link(s) to work** https://codecombat.com/play/forest https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e
 https://docs.microsoft.com/en-us/learn/paths/create-bots-with-the-azure-bot-service/
 
+### Day 9: March 18th 2019 - Monday
+
+**Today's Progress**: Started the Build a chat bot with the Azure Bot Service Module on Microsoft Lean. I've done 5 of the 8 modules, but I'm a bit confused at the moment. During this module I'm learning:
+* Create an Azure Web App Bot to host a bot
+* Create a knowledge base, populate it with data, and connect it to a bot
+* Implement bots in code and debug the bots that you build
+* Publish bots and use continuous integration to keep them up to date
+* Debug bots locally using Visual Studio Code and the Microsoft Bot Framework Emulator
+
+But I've done something wrong, and I don't know how to undo it. And I've reached a bit in the instruction where I don't know what it means.
+
+**Thoughts** Either this will look better in the morning, and it'll be clear what I need to do, or I can ask one of the lads in the office to help me. So it's not too bad, surely? Maybe I should ask twitter.
+
+**Link(s) to work** https://docs.microsoft.com/en-au/learn/modules/build-chat-bot-with-azure-bot-service/
