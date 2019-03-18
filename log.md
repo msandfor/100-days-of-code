@@ -85,8 +85,12 @@ https://docs.microsoft.com/en-us/learn/paths/create-bots-with-the-azure-bot-serv
 * Publish bots and use continuous integration to keep them up to date
 * Debug bots locally using Visual Studio Code and the Microsoft Bot Framework Emulator
 
-But I've done something wrong, and I don't know how to undo it. And I've reached a bit in the instruction where I don't know what it means.
+But I've done something wrong, and I don't know how to undo it. I asked for help on Twitter and @antonjb replied telling me how to fix it - and I was able to redo that part.
 
-**Thoughts** Either this will look better in the morning, and it'll be clear what I need to do, or I can ask one of the lads in the office to help me. So it's not too bad, surely? Maybe I should ask twitter.
+But now I've reached a bit in the instruction where I don't know what it means.
+
+**Thoughts** Either this will look better in the morning, and it'll be clear what I need to do, or I can ask one of the lads in the office to help me. So it's not too bad, surely? 
+
+I was really happy when I asked Twitter for help and got the answer right away - I felt the love of my network and community.
 
 **Link(s) to work** https://docs.microsoft.com/en-au/learn/modules/build-chat-bot-with-azure-bot-service/
