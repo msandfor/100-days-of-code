@@ -81,16 +81,50 @@ https://docs.microsoft.com/en-us/learn/paths/create-bots-with-the-azure-bot-serv
 **Today's Progress**: Started the Build a chat bot with the Azure Bot Service Module on Microsoft Lean. I've done 5 of the 8 modules, but I'm a bit confused at the moment. During this module I'm learning:
 * Create an Azure Web App Bot to host a bot
 * Create a knowledge base, populate it with data, and connect it to a bot
-* Implement bots in code and debug the bots that you build
-* Publish bots and use continuous integration to keep them up to date
 * Debug bots locally using Visual Studio Code and the Microsoft Bot Framework Emulator
 
 But I've done something wrong, and I don't know how to undo it. I asked for help on Twitter and @antonjb replied telling me how to fix it - and I was able to redo that part.
+
+So I did this: C:\Users\misandfo\Documents\Factbot>git remote add qna-factbot {https://LeoBotAdmin@snickerbot2.scm.azurewebsites.net:443/snickerbot2.git} and I think I should have done...
+
+C:\Users\misandfo\Documents\Factbot>git remote add qna-factbot https://LeoBotAdmin@snickerbot2.scm.azurewebsites.net:443/snickerbot2.git
+
+and now it says: 
+
+fatal: remote qna-factbot already exists.
+
+But I don't know how to un-exist it and try again...
+
+But @antonJB replied on twitter with this solution:
+you can see your remotes with `git remote -v` then remove the one you don't want with `git remote rm {REMOTE URL}`
+
+and it worked!
 
 But now I've reached a bit in the instruction where I don't know what it means.
 
 **Thoughts** Either this will look better in the morning, and it'll be clear what I need to do, or I can ask one of the lads in the office to help me. So it's not too bad, surely? 
 
 I was really happy when I asked Twitter for help and got the answer right away - I felt the love of my network and community.
+
+**Link(s) to work** https://docs.microsoft.com/en-au/learn/modules/build-chat-bot-with-azure-bot-service/
+
+### Day 10: March 19th 2019 - Tuesday
+
+**Today's Progress**: 
+Continued on with the tutorial. 
+* Implement bots in code and debug the bots that you build
+* Publish bots and use continuous integration to keep them up to date
+* Debug bots locally using Visual Studio Code and the Microsoft Bot Framework Emulator
+
+I was stuck on this bit for ages:
+4. Confirm that "test bot endpoint at http://localhost:3978/api/messages" appears in the debug console.
+Your bot code is now running locally.
+5. Launch the Bot Framework Emulator from the Start Menu or launch icon.
+6. Select the Enter your endpoint URL field. Enter the bot name and the bot URL displayed in the debug console in the previous step.
+
+Because the I didn't know what the bot name or URL field was. Eventually, after much thought, I decided that the bot name must be bot, and the URL must be http://localhost:3978/api/messages - obvious once I say it, but not obvious from the instruction.
+
+**Thoughts** 
+An unclear tutorial is confusing and offputting - but it's very satisfying when you figure stuff out and I am enjoying this more and more.
 
 **Link(s) to work** https://docs.microsoft.com/en-au/learn/modules/build-chat-bot-with-azure-bot-service/
