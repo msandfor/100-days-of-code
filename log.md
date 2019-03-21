@@ -128,3 +128,17 @@ Because the I didn't know what the bot name or URL field was. Eventually, after 
 An unclear tutorial is confusing and offputting - but it's very satisfying when you figure stuff out and I am enjoying this more and more.
 
 **Link(s) to work** https://docs.microsoft.com/en-au/learn/modules/build-chat-bot-with-azure-bot-service/
+
+### Day 11: March 20th 2019 - Wednesday
+
+**Today's Progress**: 
+I started to create a slackbot that would replace peoples faces with emojis.
+This one used a sandbox in Azure, that has a time limited of 3 hours on it. Which makes it tough because usually I would do an hour at the start of the day and then finish up later. But I'll have to redo some parts of it, with this time limit. I got stuck again - the command func host start didn't work.
+
+*** Thoughts***
+POsted my progress to Twitter and got the answer back from @DavidWengier: Install core tools -
+https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local
+
+**Link(s) to work**
+https://docs.microsoft.com/en-au/learn/modules/replace-faces-with-emojis-matching-emotion/4-create-an-azure-function-project
+
