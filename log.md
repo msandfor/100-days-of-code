@@ -142,3 +142,27 @@ https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local
 **Link(s) to work**
 https://docs.microsoft.com/en-au/learn/modules/replace-faces-with-emojis-matching-emotion/4-create-an-azure-function-project
 
+### Day 12: March 21st 2019 - Thursday
+
+**Today's Progress**: 
+Looked again at the slackbot tutorial that would replace peoples faces with emojis.
+Stuck again in another place - don't see the Javascript Debug option as described in the tutorial. Think I need to start from scratch and double check every step.
+Started playing with a Twitter tutorial, but it wasn't new enough to include the OAuth option, so put that aside too.
+
+*** Thoughts***
+A frustrating day because I couldn't find anything I could achieve in under and hour and I didn't have more than an hour to spend.
+
+**Link(s) to work**
+https://docs.microsoft.com/en-au/learn/modules/replace-faces-with-emojis-matching-emotion/4-create-an-azure-function-project
+
+### Day 13: March 22nd 2019 - Friday
+
+**Today's Progress**: 
+Had another go at the slackbot tutorial that would replace peoples faces with emojis.
+Worked all the way through it, but I'm still getting errors. I'll delete it again and have one more try tomorrow.
+
+*** Thoughts***
+Felt better for going all the way through it. I know I can do it. Just need to really focus.
+
+**Link(s) to work**
+https://docs.microsoft.com/en-au/learn/modules/replace-faces-with-emojis-matching-emotion/4-create-an-azure-function-project
