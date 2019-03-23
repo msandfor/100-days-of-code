@@ -120,7 +120,19 @@ I was stuck on this bit for ages:
 4. Confirm that "test bot endpoint at http://localhost:3978/api/messages" appears in the debug console.
 Your bot code is now running locally.
 5. Launch the Bot Framework Emulator from the Start Menu or launch icon.
-6. Select the Enter your endpoint URL field. Enter the bot name and the bot URL displayed in the debug console in the previous step.
+
+
+### Day 13: March 22nd 2019 - Friday
+
+**Today's Progress**: 
+Had another go at the slackbot tutorial that would replace peoples faces with emojis.
+Worked all the way through it, but I'm still getting errors. I'll delete it again and have one more try tomorrow.
+
+*** Thoughts***
+Felt better for going all the way through it. I know I can do it. Just need to really focus.
+
+**Link(s) to work**
+https://docs.microsoft.com/en-au/learn/modules/replace-faces-with-emojis-matching-emotion/4-create-an-azure-function-project6. Select the Enter your endpoint URL field. Enter the bot name and the bot URL displayed in the debug console in the previous step.
 
 Because the I didn't know what the bot name or URL field was. Eventually, after much thought, I decided that the bot name must be bot, and the URL must be http://localhost:3978/api/messages - obvious once I say it, but not obvious from the instruction.
 
@@ -166,3 +178,17 @@ Felt better for going all the way through it. I know I can do it. Just need to r
 
 **Link(s) to work**
 https://docs.microsoft.com/en-au/learn/modules/replace-faces-with-emojis-matching-emotion/4-create-an-azure-function-project
+
+### Day 14: March 23rd 2019 - Friday
+
+**Today's Progress**: 
+https://github.com/ykdojo/twitterbotsample
+
+Learnt how to create a Twitter bot with Python and Tweepy! Also, here are the links mentioned in the video: - How to install Tweepy and the source code of this project: https://csdojo.io/twitter - PythonAnywhere (a referral link): https://csdojo.io/py And this was part of the: - Build a startup series: https://www.youtube.com/playlist?list... - As well as my Python tutorial series: https://www.youtube.com/playlist?list... And, you can find me on Twitter and Instagram @ykdojo!
+
+
+*** Thoughts***
+This was really fun. But I still need to figure out how to have it running all the time - so the cloud service part.
+
+**Link(s) to work**
+https://github.com/msandfor/botsnicker
