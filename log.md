@@ -179,7 +179,7 @@ Felt better for going all the way through it. I know I can do it. Just need to r
 **Link(s) to work**
 https://docs.microsoft.com/en-au/learn/modules/replace-faces-with-emojis-matching-emotion/4-create-an-azure-function-project
 
-### Day 14: March 23rd 2019 - Friday
+### Day 14: March 23rd 2019 - Saturday
 
 **Today's Progress**: 
 https://github.com/ykdojo/twitterbotsample
@@ -189,6 +189,18 @@ Learnt how to create a Twitter bot with Python and Tweepy! Also, here are the li
 
 *** Thoughts***
 This was really fun. But I still need to figure out how to have it running all the time - so the cloud service part.
+
+**Link(s) to work**
+https://github.com/msandfor/botsnicker
+
+### Day 15: March 24th 2019 - Sunday
+
+**Today's Progress**: 
+
+Spent a lot of time trying to figure out Heroku, and how to get the twitterbot running in the cloud. Still have not quite got it, but I enjoyed the troubleshooting
+
+*** Thoughts***
+Even though I didn't solve it, I still feel good.
 
 **Link(s) to work**
 https://github.com/msandfor/botsnicker
