@@ -122,22 +122,6 @@ Your bot code is now running locally.
 5. Launch the Bot Framework Emulator from the Start Menu or launch icon.
 
 
-### Day 13: March 22nd 2019 - Friday
-
-**Today's Progress**: 
-Had another go at the slackbot tutorial that would replace peoples faces with emojis.
-Worked all the way through it, but I'm still getting errors. I'll delete it again and have one more try tomorrow.
-
-*** Thoughts***
-Felt better for going all the way through it. I know I can do it. Just need to really focus.
-
-**Link(s) to work**
-https://docs.microsoft.com/en-au/learn/modules/replace-faces-with-emojis-matching-emotion/4-create-an-azure-function-project6. Select the Enter your endpoint URL field. Enter the bot name and the bot URL displayed in the debug console in the previous step.
-
-Because the I didn't know what the bot name or URL field was. Eventually, after much thought, I decided that the bot name must be bot, and the URL must be http://localhost:3978/api/messages - obvious once I say it, but not obvious from the instruction.
-
-**Thoughts** 
-An unclear tutorial is confusing and offputting - but it's very satisfying when you figure stuff out and I am enjoying this more and more.
 
 **Link(s) to work** https://docs.microsoft.com/en-au/learn/modules/build-chat-bot-with-azure-bot-service/
 
@@ -177,7 +161,12 @@ Worked all the way through it, but I'm still getting errors. I'll delete it agai
 Felt better for going all the way through it. I know I can do it. Just need to really focus.
 
 **Link(s) to work**
-https://docs.microsoft.com/en-au/learn/modules/replace-faces-with-emojis-matching-emotion/4-create-an-azure-function-project
+https://docs.microsoft.com/en-au/learn/modules/replace-faces-with-emojis-matching-emotion/4-create-an-azure-function-project6. Select the Enter your endpoint URL field. Enter the bot name and the bot URL displayed in the debug console in the previous step.
+
+Because the I didn't know what the bot name or URL field was. Eventually, after much thought, I decided that the bot name must be bot, and the URL must be http://localhost:3978/api/messages - obvious once I say it, but not obvious from the instruction.
+
+**Thoughts** 
+An unclear tutorial is confusing and offputting - but it's very satisfying when you figure stuff out and I am enjoying this more and more.
 
 ### Day 14: March 23rd 2019 - Saturday
 
