@@ -193,3 +193,116 @@ Even though I didn't solve it, I still feel good.
 
 **Link(s) to work**
 https://github.com/msandfor/botsnicker
+
+### Day 16: March 25th 2019 - Monday
+
+**Today's Progress**: 
+
+I thought a lot about how to connect my Twitter bot to the internet. I think I should be able to do it with the web server and some web hooks. I also went to #juniordev and I'm keen to have a go with #Flask There were 3 presentations, getting started with FLASK, with REACTJS and then some image optimisation and playing with CodePen
+
+*** Thoughts***
+
+I prefer to be following tutorials where I can write code and see what happens. But I know I need to try and understand some of the concepts to apply them to my Twitterbot, else I won't pick the right way to implement it. This is architecture.
+
+**Link(s) to work**
+
+https://www.meetup.com/Junior-Developers-Perth/events/259719006/
+
+### Day 17: March 26th 2019 - Tuesday
+
+**Today's Progress**: 
+
+I started the Azure Fundamentals course, to try and get some of the concepts down. Still thinking about my twitterbot. I also installed a bunch of programming apps on my phone so I could learn on the go.
+
+Setup my first Talk about my 100 days - It will be in May, so I'll need to start putting it together already
+
+*** Thoughts***
+
+Those apps seem mostly the sameish. But they are pretty good. To be fair, I've only tried 2 of them so far.
+
+**Link(s) to work**
+
+Apps: 
+Programming Hub
+SoloLearn
+GrassHopper
+Enki
+Encode
+Learn Python
+
+### Day 18: March 27th 2019 - Wednesday
+
+**Today's Progress**: 
+
+I was looking at serverless logic and azure functions. There might be something there for my twitterbot. 
+
+*** Thoughts***
+
+Not sure if this will be the cheap/freeish option I'm looking for, but it's worth exploring and understanding
+
+**Link(s) to work**
+
+https://docs.microsoft.com/en-au/learn/paths/create-serverless-applications/
+
+### Day NN: Month Day 2019 - Day
+
+**Today's Progress**: 
+
+
+*** Thoughts***
+
+**Link(s) to work**
+
+### Day NN: Month Day 2019 - Day
+
+**Today's Progress**: 
+
+
+*** Thoughts***
+
+**Link(s) to work**
+
+### Day NN: Month Day 2019 - Day
+
+**Today's Progress**: 
+
+
+*** Thoughts***
+
+**Link(s) to work**
+
+### Day NN: Month Day 2019 - Day
+
+**Today's Progress**: 
+
+
+*** Thoughts***
+
+**Link(s) to work**
+
+### Day NN: Month Day 2019 - Day
+
+**Today's Progress**: 
+
+
+*** Thoughts***
+
+**Link(s) to work**
+
+### Day NN: Month Day 2019 - Day
+
+**Today's Progress**: 
+
+
+*** Thoughts***
+
+**Link(s) to work**
+
+### Day NN: Month Day 2019 - Day
+
+**Today's Progress**: 
+
+
+*** Thoughts***
+
+**Link(s) to work**
