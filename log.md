@@ -235,6 +235,7 @@ Learn Python
 **Today's Progress**: 
 
 I was looking at serverless logic and azure functions. There might be something there for my twitterbot. 
+I also played codecombat for a couple of hours after dinner and looked at Grasshopper (javascript) and EnKi in the park whilst walking the dogs.
 
 *** Thoughts***
 
