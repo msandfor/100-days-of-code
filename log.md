@@ -245,32 +245,36 @@ Not sure if this will be the cheap/freeish option I'm looking for, but it's wort
 
 https://docs.microsoft.com/en-au/learn/paths/create-serverless-applications/
 
-### Day NN: Month Day 2019 - Day
+### Day 19: March 28th 2019 - Thursday
 
-**Today's Progress**: 
-
+**Today's Progress**: Looked at a bunch of Python bots, trying to understand the architecture and understand webhooks, webservices, github, heroku, azure apps etc
 
 *** Thoughts***
+Sometimes you have to slow down if you want to go faster.
 
 **Link(s) to work**
 
-### Day NN: Month Day 2019 - Day
+### Day 20: March 29th 2019 - Friday
 
-**Today's Progress**: 
-
-
-*** Thoughts***
-
-**Link(s) to work**
-
-### Day NN: Month Day 2019 - Day
-
-**Today's Progress**: 
+**Today's Progress**: I went to Rotto today for the Directors Forum, so I didn't have much time. But I did all my lessons on Enki. 
 
 
 *** Thoughts***
+Learning stuff like dictionarys and tuples and lists is super boring to me. I prefer doing stuff with the bots.
 
 **Link(s) to work**
+
+### Day 21: March 30th Day 2019 - Saturday
+
+**Today's Progress**: 
+Spent the whole day linking my twitter bot from https://github.com/msandfor/twitterbotsample/blob/master/my_twitter_bot.py to Heroku using http://briancaffey.github.io/2016/04/05/twitter-bot-tutorial.html
+
+*** Thoughts***
+Really pleased I got that working and I think I understand the different components and how they architect together now. Still stuff to learn - but I have one running, all the time now!
+
+**Link(s) to work**
+https://github.com/msandfor/botsnicker1
+
 
 ### Day NN: Month Day 2019 - Day
 
