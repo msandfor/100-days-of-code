@@ -276,14 +276,19 @@ Really pleased I got that working and I think I understand the different compone
 https://github.com/msandfor/botsnicker1
 
 
-### Day NN: Month Day 2019 - Day
+### Day 22: March 31 2019 - Sunday
 
 **Today's Progress**: 
 
+Played with an Instabot. Also setup my project repository and started writing the docs in Markdown.
 
 *** Thoughts***
+Really think I'm starting to understand how github works. I accidentally killed my twitterbot for a while, but it's all part of the process.
 
 **Link(s) to work**
+
+https://github.com/msandfor/RiseOfTheRoBots
+
 
 ### Day NN: Month Day 2019 - Day
 
