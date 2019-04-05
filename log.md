@@ -290,28 +290,186 @@ Really think I'm starting to understand how github works. I accidentally killed 
 https://github.com/msandfor/RiseOfTheRoBots
 
 
-### Day NN: Month Day 2019 - Day
+### Day 23: April 01 2019 - Monday
 
 **Today's Progress**: 
+Worked on the docs in my Rise of the Robots repository. I want to re-document the tutorials, as I did them so others can follow
 
+*** Thoughts***
+Documentation takes more time than coding and is just as frustrating
+
+**Link(s) to work**
+
+https://github.com/msandfor/RiseOfTheRoBots
+
+### Day 23: April 02 2019 - Tuesday
+
+**Today's Progress**: 
+Did some Markdown and HTML via @github learning labs today. If you haven't tried them, have a go, because a bot teaches the tutorial and approves your commits. 
+
+*** Thoughts***
+Love this bot that teaches me how to use GitHub
+
+**Link(s) to work**
+
+https://lab.github.com/
+
+### Day 24: April 03 2019 - Wednesday
+
+**Today's Progress**: 
+More Github Learning labs. I want to learn how to make that bot
+
+*** Thoughts***
+
+
+**Link(s) to work**
+https://lab.github.com/
+
+
+### Day 25: April 04 2019 - Thursday
+
+**Today's Progress**: 
+I checked out @ChloeCondon 's very cool App on #github what a clever idea 
+
+*** Thoughts***
+Needs more study to see what can be done with this
+
+**Link(s) to work**
+https://github.com/ChloeCodesThings/sos-plz-save-me
+https://medium.com/microsoftazure/an-ambiverts-guide-to-azure-functions-95931976c565
+https://motherboard.vice.com/en_us/article/gyaaw7/this-fake-boyfriend-app-bails-you-out-of-awkward-moments
+https://github.com/msandfor/twilio-csharp
+
+
+### Day NN: MMM DD 2019 - Xday
+
+**Today's Progress**: 
 
 *** Thoughts***
 
 **Link(s) to work**
 
-### Day NN: Month Day 2019 - Day
+
+### Day NN: MMM DD 2019 - Xday
 
 **Today's Progress**: 
-
 
 *** Thoughts***
 
 **Link(s) to work**
 
-### Day NN: Month Day 2019 - Day
+
+### Day NN: MMM DD 2019 - Xday
 
 **Today's Progress**: 
 
+*** Thoughts***
+
+**Link(s) to work**
+
+
+### Day NN: MMM DD 2019 - Xday
+
+**Today's Progress**: 
+
+*** Thoughts***
+
+**Link(s) to work**
+
+
+### Day NN: MMM DD 2019 - Xday
+
+**Today's Progress**: 
+
+*** Thoughts***
+
+**Link(s) to work**
+
+
+### Day NN: MMM DD 2019 - Xday
+
+**Today's Progress**: 
+
+*** Thoughts***
+
+**Link(s) to work**
+
+
+### Day NN: MMM DD 2019 - Xday
+
+**Today's Progress**: 
+
+*** Thoughts***
+
+**Link(s) to work**
+
+
+### Day NN: MMM DD 2019 - Xday
+
+**Today's Progress**: 
+
+*** Thoughts***
+
+**Link(s) to work**
+
+
+### Day NN: MMM DD 2019 - Xday
+
+**Today's Progress**: 
+
+*** Thoughts***
+
+**Link(s) to work**
+
+
+### Day NN: MMM DD 2019 - Xday
+
+**Today's Progress**: 
+
+*** Thoughts***
+
+**Link(s) to work**
+
+
+### Day NN: MMM DD 2019 - Xday
+
+**Today's Progress**: 
+
+*** Thoughts***
+
+**Link(s) to work**
+
+
+### Day NN: MMM DD 2019 - Xday
+
+**Today's Progress**: 
+
+*** Thoughts***
+
+**Link(s) to work**
+
+
+### Day NN: MMM DD 2019 - Xday
+
+**Today's Progress**: 
+
+*** Thoughts***
+
+**Link(s) to work**
+
+
+### Day NN: MMM DD 2019 - Xday
+
+**Today's Progress**: 
+
+*** Thoughts***
+
+**Link(s) to work**
+
+
+### Day NN: MMM DD 2019 - Xday
+
+**Today's Progress**: 
 
 *** Thoughts***
 
