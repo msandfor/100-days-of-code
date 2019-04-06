@@ -216,6 +216,8 @@ I started the Azure Fundamentals course, to try and get some of the concepts dow
 
 Setup my first Talk about my 100 days - It will be in May, so I'll need to start putting it together already
 
+Completed my Azure Cloud Concepts - Principles of cloud computing
+
 *** Thoughts***
 
 Those apps seem mostly the sameish. But they are pretty good. To be fair, I've only tried 2 of them so far.
@@ -236,6 +238,9 @@ Learn Python
 
 I was looking at serverless logic and azure functions. There might be something there for my twitterbot. 
 I also played codecombat for a couple of hours after dinner and looked at Grasshopper (javascript) and EnKi in the park whilst walking the dogs.
+
+Completed: Create serverless logic with Azure Functions
+Completed: Execute an Azure Function with triggers
 
 *** Thoughts***
 
@@ -341,18 +346,25 @@ https://motherboard.vice.com/en_us/article/gyaaw7/this-fake-boyfriend-app-bails-
 https://github.com/msandfor/twilio-csharp
 
 
-### Day NN: MMM DD 2019 - Xday
+### Day 26: April 05 2019 - Friday
 
 **Today's Progress**: 
+
+I did more @Github Learning Labs on Markdown, HTML and Apps. I  the bot that teaches me stuff and want to build one just like it. Think I'm gonna have to do #JavaScript as well, not just #Python because that's what the Probots are. So much more to know... #100daysofcode
+Completed: Getting started with GitHub Apps
 
 *** Thoughts***
 
 **Link(s) to work**
+https://lab.github.com/
 
-
-### Day NN: MMM DD 2019 - Xday
+### Day 27: April 06 2019 - Saturday
 
 **Today's Progress**: 
+
+Purchased a Flic button and set-up a Twilio account. Forked Chloes SOS directory and followed her instructions for setting up the Azure Functions.
+Completed: Chain Azure functions together using input and output bindings
+Completed: Create serverless applications
 
 *** Thoughts***
 
