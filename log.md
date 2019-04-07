@@ -370,6 +370,32 @@ Completed: Create serverless applications
 
 **Link(s) to work**
 
+### Day 28: April 07 2019 - Sunday
+
+**Today's Progress**: 
+
+Played Twilio Quest. It had a thing in it where you need to take your local page and use ngrok to put it on the internets. I had to use FLASK for the web side of Python, did that all ok - but was a bit baffled by the negrok stuff. Same as when I was trying to understand the place of Heroku in things. I followed the instructions, but it wasn't working. Phil Nash from Twilio helped me - he saw the port that Flask used was not the same as negrok had used - he told me how to make negrok use the same one - and then it worked! 
+
+*** Thoughts***
+
+I was really happy for three reasons:
+1. When I am stuck, and I ask for help - someone helps me. The world should be as great as the developer community.
+2. It was a small thing that was wrong. I had nearly done it all myself - so it wasn't as if I was completely hopeless. And it's always small things that are wrong. I can do this!
+3. I feel like the concept is similar to the Heroku thing. I keep coming across the same architecture again and again - in different forms. I feel like I will get it, and then I will be able to bridge that gap in many ways. In fact, I think this is what I used Azure Functions for when following Chloes instructions yesterday.
+
+**Link(s) to work**
+
+https://www.twilio.com/quest/mission/13
+
+### Day NN: MMM DD 2019 - Xday
+
+**Today's Progress**: 
+
+*** Thoughts***
+
+**Link(s) to work**
+
+
 
 ### Day NN: MMM DD 2019 - Xday
 
