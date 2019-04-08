@@ -387,15 +387,19 @@ I was really happy for three reasons:
 
 https://www.twilio.com/quest/mission/13
 
-### Day NN: MMM DD 2019 - Xday
+### Day 29: April 9th 2019 - Monday
 
 **Today's Progress**: 
 
+Just did an hour of Azure Fundamentals like all the good Microsofties are doing this month. 
+
 *** Thoughts***
+
+Pretty tired, Mondays are the worst... We should get a 3 day weekend, every week.
 
 **Link(s) to work**
 
-
+https://docs.microsoft.com/en-au/learn/
 
 ### Day NN: MMM DD 2019 - Xday
 
