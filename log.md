@@ -387,7 +387,8 @@ I was really happy for three reasons:
 
 https://www.twilio.com/quest/mission/13
 
-### Day 29: April 9th 2019 - Monday
+
+### Day 29: April 8th 2019 - Monday
 
 **Today's Progress**: 
 
@@ -401,22 +402,28 @@ Pretty tired, Mondays are the worst... We should get a 3 day weekend, every week
 
 https://docs.microsoft.com/en-au/learn/
 
-### Day NN: MMM DD 2019 - Xday
+
+### Day 30: April 09 2019 - Tuesday
 
 **Today's Progress**: 
+
+*** Thoughts***
+Did some more Azure Fundamentals
+
+**Link(s) to work**
+
+
+
+### Day 31: April 10th 2019 - Wednesday
+
+**Today's Progress**: 
+Did another hour of Azure Fundamentals. I'm at Level 5 now. 
+Did some of the chatterbot tutorial.
 
 *** Thoughts***
 
 **Link(s) to work**
 
-
-### Day NN: MMM DD 2019 - Xday
-
-**Today's Progress**: 
-
-*** Thoughts***
-
-**Link(s) to work**
 
 
 ### Day NN: MMM DD 2019 - Xday
