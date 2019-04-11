@@ -426,18 +426,22 @@ Did some of the chatterbot tutorial.
 
 
 
-### Day NN: MMM DD 2019 - Xday
+### Day 32: April 11th 2019 - Thursday
 
 **Today's Progress**: 
+
+Did some more Azure fundamentals. Had to travel to Sydney.
+My Flic button arrived!
 
 *** Thoughts***
 
 **Link(s) to work**
 
 
-### Day NN: MMM DD 2019 - Xday
+### Day 33: April 12th 2019 - Friday
 
 **Today's Progress**: 
+Started working on my virtal husband app, from Chloe Condon, now I have my Flic button
 
 *** Thoughts***
 
