@@ -448,63 +448,78 @@ Started working on my virtal husband app, from Chloe Condon, now I have my Flic 
 **Link(s) to work**
 
 
-### Day NN: MMM DD 2019 - Xday
+### Day 34: APR 13th 2019 - Saturday
 
 **Today's Progress**: 
+worked through a bunch of @twilio tutorials, playing with the voice functions and trying to solidify in my mind how everything fits together. #100daysofcode
 
 *** Thoughts***
 
 **Link(s) to work**
 
 
-### Day NN: MMM DD 2019 - Xday
+### Day 35: APR 14th 2019 - Sunday
 
 **Today's Progress**: 
+Just did some more Azure Fundamentals today
+
 
 *** Thoughts***
 
 **Link(s) to work**
 
 
-### Day NN: MMM DD 2019 - Xday
+### Day 36: APR 15 2019 - Monday
 
 **Today's Progress**: 
+Got a Trophy from @Microsoft Learn for doing some more Azure stuff. This course is great for Business Decision Makers - gives a great overview of what everything is and the business case and strategy around choosing things
 
 *** Thoughts***
 
 **Link(s) to work**
 
 
-### Day NN: MMM DD 2019 - Xday
+### Day 37: APR 16 2019 - Tuesday
 
 **Today's Progress**: 
+I did some exam practice for Azure Fundamentals then I went to #juniodevperth which was awesome
 
 *** Thoughts***
 
 **Link(s) to work**
 
 
-### Day NN: MMM DD 2019 - Xday
+### Day 38: APR 18 2019 - Wednesday
 
 **Today's Progress**: 
+Still playing with Azure Functions and Twilio. Might try redoing my code in Python tomorrow as Javascript is not quite as pleasing to me
 
 *** Thoughts***
 
 **Link(s) to work**
 
 
-### Day NN: MMM DD 2019 - Xday
+### Day 39: APR 20 2019 - Saturday
 
 **Today's Progress**: 
+did some SoloLearn basic concepts on my phone at the airport. Got to admit, I find just learning syntax super boring
+*** Thoughts***
+
+**Link(s) to work**
+
+### Day 40: APR 21 2019 - Sunday
+
+**Today's Progress**: 
+Had a look at a BroBot today. Seems like a fun idea. Based on the ELIZA concept but... well, more of a Bro
 
 *** Thoughts***
 
 **Link(s) to work**
 
-
-### Day NN: MMM DD 2019 - Xday
+### Day 41: APR 25 2019 - Thursday
 
 **Today's Progress**: 
+Day 041 played with some more of the tweepy and twitter stuff for my @BotSnicker today - trying to see what other functionality I can add #Snickers #100daysofcode
 
 *** Thoughts***
 
