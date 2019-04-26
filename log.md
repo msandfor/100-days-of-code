@@ -526,11 +526,15 @@ Day 041 played with some more of the tweepy and twitter stuff for my @BotSnicker
 **Link(s) to work**
 
 
-### Day NN: MMM DD 2019 - Xday
+### Day 42: APR 26 2019 - Friday
 
 **Today's Progress**: 
 
+Did some more azure functions, still trying to figure out Chloes boyfriend app functions.
+
 *** Thoughts***
+
+Think I need to spend a whole day quietly working on this, so I understand the end-to-end
 
 **Link(s) to work**
 
