@@ -539,6 +539,68 @@ Think I need to spend a whole day quietly working on this, so I understand the e
 **Link(s) to work**
 
 
+### Day 43: APR 29 2019 - Monday
+
+**Today's Progress**: 
+
+Day 043 #100daysofcode Finished my Azure Fundamentals on @Microsoft Learn. I studied for a few hours this evening, because I'm going to try the exam tomorrow and it must be 20 years since I originally did my MCSE exams... We'll see
+
+*** Thoughts***
+
+**Link(s) to work**
+
+### Day 44: APR 30 2019 - Tuesday
+
+**Today's Progress**: 
+Soo.....Day 044 #100daysofcode I passed my Azure Fundamentals exam today. Scored 865 - so I'd say the free course on #microsoftLearn is well worth the price. You may congratulate me now 
+
+
+*** Thoughts***
+
+**Link(s) to work**
+
+### Day 45: May 01 2019 - Wednesday
+
+**Today's Progress**: 
+Day 045 I went to the #DevOps #DevOpsPerth meetup @Bankwest
+
+*** Thoughts***
+
+**Link(s) to work**
+
+### Day 46: May 02 2019 - Thursday
+Thought about Azure Functions and source code versioning
+
+**Today's Progress**: 
+
+*** Thoughts***
+
+**Link(s) to work**
+
+### Day 47: May 03 2019 - Friday
+
+**Today's Progress**: 
+
+Day 047 I started a thing with @perth_web_girls which is gonna open up the world of #code to a bunch of mid-career/career-change women #100daysofcode
+
+*** Thoughts***
+
+**Link(s) to work**
+
+### Day 48: May 04 2019 - Saturday
+
+**Today's Progress**: 
+Day 048 Went through the NLP Python Tutorials on @Codecademy
+ Updated my presentation for @TheBigDayIn next week. 
+ Submitted CFP's to @DDDPerth  and @DDDMelb
+ #100daysofcode Today's productivity makes up for all my sick days where I couldn't think to code
+
+*** Thoughts***
+
+**Link(s) to work**
+https://sessionize.com/app/speaker
+https://www.codecademy.com/courses/natural-language-processing/lessons/getting-started-with-nlp/exercises/topic-models
+
 ### Day NN: MMM DD 2019 - Xday
 
 **Today's Progress**: 
@@ -546,3 +608,20 @@ Think I need to spend a whole day quietly working on this, so I understand the e
 *** Thoughts***
 
 **Link(s) to work**
+
+### Day NN: MMM DD 2019 - Xday
+
+**Today's Progress**: 
+
+*** Thoughts***
+
+**Link(s) to work**
+
+### Day NN: MMM DD 2019 - Xday
+
+**Today's Progress**: 
+
+*** Thoughts***
+
+**Link(s) to work**
+
