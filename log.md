@@ -600,6 +600,8 @@ Day 048 Went through the NLP Python Tutorials on @Codecademy
 **Link(s) to work**
 https://sessionize.com/app/speaker
 https://www.codecademy.com/courses/natural-language-processing/lessons/getting-started-with-nlp/exercises/topic-models
+https://pretalx.com/pyconau2019/talk/review/LAAY3JHJHTRS7NCRVQGZMK3PKMQWTZXM
+
 
 ### Day NN: MMM DD 2019 - Xday
 
