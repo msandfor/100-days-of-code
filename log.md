@@ -629,13 +629,23 @@ git.io/python3
 https://pep8.org/
 
 
-### Day NN: MMM DD 2019 - Xday
+### Day 050: May 06 2019 - Monday
 
 **Today's Progress**: 
+Continued following @nnja Python Fundamentals Course on FrontEnd Masters
+Dictionaries
+Booleans
+Comparisons
+and, or & not
+
 
 *** Thoughts***
+Really great summary to get clear on all these concepts in the excercise - link below
 
 **Link(s) to work**
+https://www.learnpython.dev/02-introduction-to-python/080-advanced-datatypes/70-exercise/
+https://www.learnpython.dev/02-introduction-to-python/090-boolean-logic/40-exercise/
+
 
 ### Day NN: MMM DD 2019 - Xday
 
