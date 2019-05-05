@@ -603,13 +603,31 @@ https://www.codecademy.com/courses/natural-language-processing/lessons/getting-s
 https://pretalx.com/pyconau2019/talk/review/LAAY3JHJHTRS7NCRVQGZMK3PKMQWTZXM
 
 
-### Day NN: MMM DD 2019 - Xday
+### Day 049: May 05 2019 - Sunday
 
 **Today's Progress**: 
+Started following @nnja Python Fundamentals Course on FrontEnd Masters
+REPL
+Variables
+Numbers
+Strings
+Data types
+Functions
+Function arguments
+Empty default Lists
+Function scope
+Lists
+Tuples
+Sets
+
 
 *** Thoughts***
 
 **Link(s) to work**
+https://frontendmasters.com/courses/python
+git.io/python3
+https://pep8.org/
+
 
 ### Day NN: MMM DD 2019 - Xday
 
