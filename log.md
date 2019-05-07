@@ -650,7 +650,7 @@ https://www.learnpython.dev/02-introduction-to-python/090-boolean-logic/40-exerc
 ### Day 051: May 07 2019 - Tuesday
 
 **Today's Progress**: 
-
+Made a twitterbot from Coderdojo, called it CoderDJBot. It's not automated and still need to play with some stuff, but the tutorial was super clear and I think this combined with the other stuff I learnt about twitter bots might create something interesting.
 *** Thoughts***
 
 **Link(s) to work**
