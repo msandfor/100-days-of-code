@@ -647,11 +647,11 @@ https://www.learnpython.dev/02-introduction-to-python/080-advanced-datatypes/70-
 https://www.learnpython.dev/02-introduction-to-python/090-boolean-logic/40-exercise/
 
 
-### Day NN: MMM DD 2019 - Xday
+### Day 051: May 07 2019 - Tuesday
 
 **Today's Progress**: 
 
 *** Thoughts***
 
 **Link(s) to work**
-
+https://projects.raspberrypi.org/en/projects/getting-started-with-the-twitter-api
