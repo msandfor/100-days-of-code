@@ -652,6 +652,130 @@ https://www.learnpython.dev/02-introduction-to-python/090-boolean-logic/40-exerc
 **Today's Progress**: 
 Made a twitterbot from Coderdojo, called it CoderDJBot. It's not automated and still need to play with some stuff, but the tutorial was super clear and I think this combined with the other stuff I learnt about twitter bots might create something interesting.
 *** Thoughts***
+CodeMasters offered me a free 3-Saturday Bootcamp for Python. Excited to attend that.
 
 **Link(s) to work**
 https://projects.raspberrypi.org/en/projects/getting-started-with-the-twitter-api
+
+### Day 052: May 08 2019 - Wednesday
+
+**Today's Progress**: 
+Completed @NNJA's Python Fundamentals Course
+Looping over lists
+Looping over dictionaries
+Control Flow
+While and Control Statements
+Python files and Modules
+Debugging Strategies
+Importing Modules and the main method
+APIs
+Requests - this is cool
+
+
+*** Thoughts***
+I had seen break before, but not Continue
+
+**Link(s) to work**
+https://www.learnpython.dev/02-introduction-to-python/110-control-statements-looping/40-break-continue/
+https://www.learnpython.dev/02-introduction-to-python/175-running-code/30-the-main-method/
+https://www.learnpython.dev/02-introduction-to-python/190-apis/00-the-requests-library/
+
+
+### Day 0: MMM DD 2019 - Xday
+
+**Today's Progress**: 
+
+*** Thoughts***
+
+**Link(s) to work**
+
+
+### Day 0: MMM DD 2019 - Xday
+
+**Today's Progress**: 
+
+*** Thoughts***
+
+**Link(s) to work**
+
+
+### Day 0: MMM DD 2019 - Xday
+
+**Today's Progress**: 
+
+*** Thoughts***
+
+**Link(s) to work**
+
+
+### Day 0: MMM DD 2019 - Xday
+
+**Today's Progress**: 
+
+*** Thoughts***
+
+**Link(s) to work**
+
+
+### Day 0: MMM DD 2019 - Xday
+
+**Today's Progress**: 
+
+*** Thoughts***
+
+**Link(s) to work**
+
+
+### Day 0: MMM DD 2019 - Xday
+
+**Today's Progress**: 
+
+*** Thoughts***
+
+**Link(s) to work**
+
+
+### Day 0: MMM DD 2019 - Xday
+
+**Today's Progress**: 
+
+*** Thoughts***
+
+**Link(s) to work**
+
+
+### Day 0: MMM DD 2019 - Xday
+
+**Today's Progress**: 
+
+*** Thoughts***
+
+**Link(s) to work**
+
+
+### Day 0: MMM DD 2019 - Xday
+
+**Today's Progress**: 
+
+*** Thoughts***
+
+**Link(s) to work**
+
+
+### Day 0: MMM DD 2019 - Xday
+
+**Today's Progress**: 
+
+*** Thoughts***
+
+**Link(s) to work**
+
+
+### Day 0: MMM DD 2019 - Xday
+
+**Today's Progress**: 
+
+*** Thoughts***
+
+**Link(s) to work**
+
