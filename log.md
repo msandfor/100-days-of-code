@@ -702,6 +702,7 @@ Converting between Types
 List comprehensions
 
 
+
 *** Thoughts***
 Easter eggs:
 import this
@@ -712,13 +713,22 @@ import antigravity
 https://frontendmasters.com/courses/intermediate-python/practice-converting-between-types/
 
 
-### Day 0: MMM DD 2019 - Xday
+### Day 055: May 11 2019 - Saturday
 
 **Today's Progress**: 
+Conditionals
+List Operations
+Set's and Dictionaries
+Generator Expressions
+Slicing Lists
+
+Recreated the Azure chatbot and got it talking about robots - and more than that... the bot is learning
 
 *** Thoughts***
 
 **Link(s) to work**
+https://www.qnamaker.ai/Publish?kbId=5649a922-b835-4a6b-bbd6-1112e91769f0
+
 
 
 ### Day 0: MMM DD 2019 - Xday
