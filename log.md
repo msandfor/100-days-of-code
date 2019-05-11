@@ -681,22 +681,35 @@ https://www.learnpython.dev/02-introduction-to-python/175-running-code/30-the-ma
 https://www.learnpython.dev/02-introduction-to-python/190-apis/00-the-requests-library/
 
 
-### Day 0: MMM DD 2019 - Xday
+### Day 053: May 09 2019 - Thursday
 
 **Today's Progress**: 
+From Microsoft Learn site for the TSI:
+Completed - Modernize your workplace with Microsoft 365 and Surface for Business
+
 
 *** Thoughts***
 
 **Link(s) to work**
 
 
-### Day 0: MMM DD 2019 - Xday
+### Day 054: May 10 2019 - Friday
 
 **Today's Progress**: 
+Started @NNJAs Python Intermediate Course
+Python Philosophy
+Converting between Types
+List comprehensions
+
 
 *** Thoughts***
+Easter eggs:
+import this
+from __future__ import braces
+import antigravity
 
 **Link(s) to work**
+https://frontendmasters.com/courses/intermediate-python/practice-converting-between-types/
 
 
 ### Day 0: MMM DD 2019 - Xday
