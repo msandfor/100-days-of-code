@@ -729,6 +729,77 @@ Recreated the Azure chatbot and got it talking about robots - and more than that
 **Link(s) to work**
 https://www.qnamaker.ai/Publish?kbId=5649a922-b835-4a6b-bbd6-1112e91769f0
 
+### Day 056: May 12 2019 - Sunday
+
+**Today's Progress**: 
+Day 056 #100DaysOfCode did more training with my #Azure bot. Decided he's gonna be the demo that talks about Robots in my session on Tuesday, as he already knows a lot.
+
+*** Thoughts***
+
+**Link(s) to work**
+
+
+### Day 057: May 13 2019 - Monday
+
+**Today's Progress**: 
+Day 057 worked on my @BotSnicker for my #acswa presentation. Couldn't get heroku working with her, think I've got some diff version #python clashes going on cos it worked with the older code, and it works locally... but it could be anything #100DaysOfCode
+*** Thoughts***
+
+**Link(s) to work**
+
+
+### Day 058: May 14 2019 - Tuesday
+
+**Today's Progress**: 
+Day 058 #100DaysOfCode presented my Rise of the Robots talk at ACS WA Forum
+*** Thoughts***
+
+**Link(s) to work**
+
+
+### Day 059: May 15 2019 - Wednesday
+
+**Today's Progress**: 
+
+Went to @juniordev_io that night. Got another conf proposal ready for @DDDPerth and @DDDMelb - hope they get picked
+
+
+*** Thoughts***
+
+**Link(s) to work**
+
+
+### Day 060: May 16 2019 - Thursday
+
+**Today's Progress**: 
+Day 060 #100daysofcode went to @yow_conf #YowNight #Perth - thought about ways to use tables in code
+
+*** Thoughts***
+
+**Link(s) to work**
+
+
+### Day 061: May 18 2019 - Saturday
+
+**Today's Progress**: 
+Just played CodeCombat and made conference submissions. Was very tired.
+
+*** Thoughts***
+
+**Link(s) to work**
+
+
+### Day 062: May 19 2019 - Sunday
+
+**Today's Progress**: 
+Day 062 #100DaysOfCode did some @CodeCombat in the morning, and then this evening I played with Cognitive Services, training image recognition software to recognise my #puppers. I used Max and Sam as control #doggos.
+
+*** Thoughts***
+
+**Link(s) to work**
+https://www.customvision.ai/projects/e34bee0c-dc80-4044-942f-7cec8906a122#/performance
+https://docs.microsoft.com/en-au/learn/modules/classify-images-with-custom-vision-service/0-introduction
+
 
 
 ### Day 0: MMM DD 2019 - Xday
@@ -738,51 +809,7 @@ https://www.qnamaker.ai/Publish?kbId=5649a922-b835-4a6b-bbd6-1112e91769f0
 *** Thoughts***
 
 **Link(s) to work**
-
-
-### Day 0: MMM DD 2019 - Xday
-
-**Today's Progress**: 
-
-*** Thoughts***
-
-**Link(s) to work**
-
-
-### Day 0: MMM DD 2019 - Xday
-
-**Today's Progress**: 
-
-*** Thoughts***
-
-**Link(s) to work**
-
-
-### Day 0: MMM DD 2019 - Xday
-
-**Today's Progress**: 
-
-*** Thoughts***
-
-**Link(s) to work**
-
-
-### Day 0: MMM DD 2019 - Xday
-
-**Today's Progress**: 
-
-*** Thoughts***
-
-**Link(s) to work**
-
-
-### Day 0: MMM DD 2019 - Xday
-
-**Today's Progress**: 
-
-*** Thoughts***
-
-**Link(s) to work**
+https://docs.microsoft.com/en-au/learn/modules/identify-faces-with-computer-vision/
 
 
 ### Day 0: MMM DD 2019 - Xday
