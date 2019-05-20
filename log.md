@@ -799,17 +799,20 @@ Day 062 #100DaysOfCode did some @CodeCombat in the morning, and then this evenin
 **Link(s) to work**
 https://www.customvision.ai/projects/e34bee0c-dc80-4044-942f-7cec8906a122#/performance
 https://docs.microsoft.com/en-au/learn/modules/classify-images-with-custom-vision-service/0-introduction
+https://notebooks.azure.com/TechGirlwa/projects/climate-change
 
 
 
-### Day 0: MMM DD 2019 - Xday
+### Day 063: May 20 2019 - Monday
 
 **Today's Progress**: 
+Learnt about Azure Notebooks for building and running Jupyter notebooks
 
 *** Thoughts***
-
+Think I need to do a bit more on this, but it seems really cool
 **Link(s) to work**
-https://docs.microsoft.com/en-au/learn/modules/identify-faces-with-computer-vision/
+https://docs.microsoft.com/en-au/learn/modules/analyze-climate-data-with-azure-notebooks/
+https://notebooks.azure.com/TechGirlwa/projects/climate-change
 
 
 ### Day 0: MMM DD 2019 - Xday
