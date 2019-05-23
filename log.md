@@ -801,8 +801,6 @@ https://www.customvision.ai/projects/e34bee0c-dc80-4044-942f-7cec8906a122#/perfo
 https://docs.microsoft.com/en-au/learn/modules/classify-images-with-custom-vision-service/0-introduction
 https://notebooks.azure.com/TechGirlwa/projects/climate-change
 
-
-
 ### Day 063: May 20 2019 - Monday
 
 **Today's Progress**: 
@@ -815,18 +813,32 @@ https://docs.microsoft.com/en-au/learn/modules/analyze-climate-data-with-azure-n
 https://notebooks.azure.com/TechGirlwa/projects/climate-change
 
 
-### Day 0: MMM DD 2019 - Xday
+### Day 064: May 21 2019 - Wednesday
 
 **Today's Progress**: 
+
+I'm going to count @fendersperth because I learnt a lot from @Mandy_Kerr @antonjb and @jasonaoneil
+ 
+I did also start looking at the zotroneneis/magical_universe on @github  and it is glorious
 
 *** Thoughts***
 
 **Link(s) to work**
 
 
-### Day 0: MMM DD 2019 - Xday
+### Day 065: May 22 2019 - Thursday
 
 **Today's Progress**: 
+Bought a Frontendmasters subscription and continued with NNJAs Intermediate Python course
+Zip Function
+OOP
+Classes
+Class Instances
+Initlialiser Method
+Class Methods
+Types, isinstance &issubsubclass
+Magic methods
+inheritance
 
 *** Thoughts***
 
