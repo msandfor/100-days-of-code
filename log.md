@@ -844,3 +844,23 @@ inheritance
 
 **Link(s) to work**
 
+### Day 066: May 23 2019 - Friday
+
+**Today's Progress**: 
+Day 066 #100DaysOfCode started working through Anna-Lena Popkes magical universe blogs and code, this is a super-fun way of grasping the concepts. I think I have an idea...
+
+*** Thoughts***
+
+**Link(s) to work**
+http://alpopkes.com/posts/2018/07/coding-challenge-day-1/
+
+### Day 067: May 24 2019 - Saturday
+
+**Today's Progress**: 
+Day 067 #100daysofcode Started a #Python Saturday course with @CodemasterInst in Subiaco. It's from 10am to 1pm over the next 3 Saturdays
+
+*** Thoughts***
+
+**Link(s) to work**
+https://codemasterinstitute.slack.com/messages
+
