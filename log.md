@@ -864,3 +864,12 @@ Day 067 #100daysofcode Started a #Python Saturday course with @CodemasterInst in
 **Link(s) to work**
 https://codemasterinstitute.slack.com/messages
 
+### Day 068: May 25 2019 - Sunday
+
+**Today's Progress**: 
+Worked on my translation of the magical universe, I'm translating it into Starwars stuff for now, but realised I didn't get all the class concepts yet, so went back to NNJAs Intermediate course and went back through the chapters from OOP to Inheritance
+
+*** Thoughts***
+
+**Link(s) to work**
+
