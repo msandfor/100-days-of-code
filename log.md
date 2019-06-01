@@ -873,3 +873,15 @@ Worked on my translation of the magical universe, I'm translating it into Starwa
 
 **Link(s) to work**
 
+### Day 069: June 01 2019 - Saturday
+
+**Today's Progress**: 
+Went to Codemaster institute to learn more Python. We worked on some puzzles today which were interesting. I started looking at some of the project euler problems
+
+*** Thoughts***
+
+**Link(s) to work**
+Problems: https://projecteuler.net/archives
+Python solutions: https://github.com/zotroneneis/ProjectEuler
+
+
