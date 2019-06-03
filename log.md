@@ -906,6 +906,13 @@ Flask
 Routing
 Templates
 
+Also started the Flask Mega Tutorial: 
+https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
+https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-ii-templates
+https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-iii-web-forms
+
+
+
 *** Thoughts***
 
 **Link(s) to work**
