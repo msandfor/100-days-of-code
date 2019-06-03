@@ -888,7 +888,7 @@ Python solutions: https://github.com/zotroneneis/ProjectEuler
 ### Day 070: June 03 2019 - Monday
 
 **Today's Progress**: 
-Continued with NNJAs Intermediate Python course
+Completed NNJAs Intermediate Python course
 Exception Types
 Try Except
 Error specificity
@@ -902,7 +902,9 @@ Testing in Python
 Unit Testing
 Testcase assertions and testing libraries
 web frameworks
-
+Flask
+Routing
+Templates
 
 *** Thoughts***
 
