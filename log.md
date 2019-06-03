@@ -885,3 +885,26 @@ Problems: https://projecteuler.net/archives
 Python solutions: https://github.com/zotroneneis/ProjectEuler
 
 
+### Day 070: June 03 2019 - Monday
+
+**Today's Progress**: 
+Continued with NNJAs Intermediate Python course
+Exception Types
+Try Except
+Error specificity
+Custom Exceptions
+Custom exception application
+Libararies and Modules
+Importing modules
+using external packages
+command line
+Testing in Python
+Unit Testing
+Testcase assertions and testing libraries
+web frameworks
+
+
+*** Thoughts***
+
+**Link(s) to work**
+
