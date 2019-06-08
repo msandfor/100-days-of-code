@@ -917,3 +917,22 @@ https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-iii-web-forms
 
 **Link(s) to work**
 
+### Day 071: June 07 2019 - Friday
+
+**Today's Progress**: 
+Did a bunch of tutorials on Python from the Microsoft Learn site
+
+*** Thoughts***
+
+**Link(s) to work**
+https://docs.microsoft.com/en-us/learn/browse/?term=python
+
+
+### Day 072: June 08 2019 - Saturday
+
+**Today's Progress**: 
+Codemaster Inst - completed the 3rd fundamentals class
+
+*** Thoughts***
+
+**Link(s) to work**
