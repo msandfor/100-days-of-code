@@ -936,3 +936,15 @@ Codemaster Inst - completed the 3rd fundamentals class
 *** Thoughts***
 
 **Link(s) to work**
+
+### Day 073: June 09 2019 - Sunday
+
+**Today's Progress**: 
+Did a bunch of modules in SoloLearn
+Also did some Microsoft Learn Tutorials on Machine Learning, in particular Building and Training Neural Networks with Keras on Jupyter Notesbooks in Azure using Tensorflow
+
+*** Thoughts***
+
+**Link(s) to work**
+https://docs.microsoft.com/en-au/learn/modules/analyze-review-sentiment-with-keras/2-build-and-train-a-neural-network
+
