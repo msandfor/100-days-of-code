@@ -948,3 +948,13 @@ Also did some Microsoft Learn Tutorials on Machine Learning, in particular Build
 **Link(s) to work**
 https://docs.microsoft.com/en-au/learn/modules/analyze-review-sentiment-with-keras/2-build-and-train-a-neural-network
 
+### Day 074: June 18 2019 - Monday
+
+**Today's Progress**: 
+JuniorDev group. Sentiment analysis
+
+*** Thoughts***
+
+**Link(s) to work**
+
+https://projects.raspberrypi.org/en/projects/naughty-and-nice/3
