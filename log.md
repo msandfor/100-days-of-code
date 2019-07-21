@@ -927,7 +927,6 @@ Did a bunch of tutorials on Python from the Microsoft Learn site
 **Link(s) to work**
 https://docs.microsoft.com/en-us/learn/browse/?term=python
 
-
 ### Day 072: June 08 2019 - Saturday
 
 **Today's Progress**: 
@@ -958,3 +957,42 @@ JuniorDev group. Sentiment analysis
 **Link(s) to work**
 
 https://projects.raspberrypi.org/en/projects/naughty-and-nice/3
+
+### Day 075: 
+
+Day 075 #100daysofCode went to 
+@juniordev_io
+#Perth for the Bring your code night. Had so much fun I forgot to take a picture...
+
+
+### Day 076:
+
+Day 076 ordered a bunch of #RaspberryPi stuff and a #PythonBot and then spent the day doing #LUIS and other NLP #bot stuff. #100DaysOfCode
+
+
+### Day 077: July 7th
+
+I feel like my guesses about why my code isn't working sound so much more intelligent these days... but I still do the dumbest shit possible sometimes Day077 #100DaysOfCode 
+
+PS - Been following the #Twilio tutorial on building a #Facebook #Chatbot today. They write good doco
+https://www.twilio.com/blog/2017/12/facebook-messenger-bot-python.html
+https://www.twilio.com/blog/2018/02/facebook-messenger-bot-heroku-python-flask.html
+
+### Day 078: July 8th
+Finished my Facebook chatbot, deployed it to Heroku. Learnt to use environment variables on the os instead of keys in the code. Used a messages file instead of a tuple. It was a good day. Went to #DDDPerth Speaker Training  #100DaysOfCode
+
+https://github.com/msandfor/RiseOfTheRoBots/tree/master/code/FaceBot
+
+### Day 079: July 20th Saturday
+
+Must have done 8 hours today, running my bots through Heroku and then Azure. I connected my Azure chatbot (the one that knows about robots) through my facebook messenger front-end. But I couldn't figure out how to get my nicebot running through azure to facebook instead of via heroku. Might try that tomorrow.
+
+### Day 080: July 21st Sunday
+
+Played the new Twilio Quest all morning. Picked up a few things to feedback. I really like doing testing. 
+
+### Day 081: July 22nd Monday
+
+Built some demos in Codey Blocky - let Snickers play with the robot. She was pretty good at pressing buttons and getting it to work. It did facial recognition and emotion recognition. That was fun.
+
+https://www.makeblock.com/steam-kits/codey-rocky
