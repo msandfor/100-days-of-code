@@ -990,9 +990,14 @@ Must have done 8 hours today, running my bots through Heroku and then Azure. I c
 ### Day 080: July 21st Sunday
 
 Played the new Twilio Quest all morning. Picked up a few things to feedback. I really like doing testing. 
+I got my snickerbot running on Heroku again. When you have a bit of time to look at all the settings, none of it is the black magic it first appeared to be.
 
 ### Day 081: July 22nd Monday
 
 Built some demos in Codey Blocky - let Snickers play with the robot. She was pretty good at pressing buttons and getting it to work. It did facial recognition and emotion recognition. That was fun.
 
 https://www.makeblock.com/steam-kits/codey-rocky
+
+DDDPerth Speaker training again tonight. Not long now...
+
+
