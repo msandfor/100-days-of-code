@@ -1000,4 +1000,8 @@ https://www.makeblock.com/steam-kits/codey-rocky
 
 DDDPerth Speaker training again tonight. Not long now...
 
+### Day 082: July 27th Saturday
+
+I worked on my twitterbot for 7 hours today. Documenting how to built it, keep the keys secret, deploy it to GitHub and Heroku, testing it, creating a local test file. Figuring out why it wasn't working it cloud. It might not look like I achieved much, but I did. The documentation isn't perfect, but I understand the code and the architecture and I think with some small improvements the doco will be great. Must finanlise my session tomorrow though, and the pubconf one. No more time for playing with bots.
+
 
