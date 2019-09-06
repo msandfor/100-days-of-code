@@ -1007,3 +1007,6 @@ I worked on my twitterbot for 7 hours today. Documenting how to built it, keep t
 ### Day 083 #100DaysOfCode - 
 
 Finished my #DDDPerth session. Checked my code on a few aspects, and clarified. Later discovered there's no writeback to GitHub happening on my twitterbot. But that's ok, at least I know... Did most of my #PubConf one.
+
+### Day 084 
+#100DaysofCode - today we had a learning day from @MicrosoftAU so I spent some of it learning my M365 Fundamentals on #MicrosoftLearn docs.microsoft.com/en-us/learn/paths/m365-fundamentals/… and - because I'm a #Python Mentor at @shecodesaus tomorrow - I did the whole tutorial today :-)
